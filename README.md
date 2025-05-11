@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Connor Brancato
 
-<!--
-**connor859/connor859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Working Chis Sweet Home GIF](https://github.com/user-attachments/assets/db0bb7c5-3fff-4134-bba8-105c778e5da3)
 
-Here are some ideas to get you started:
+I'm an Electrical and Computer Engineering student at Clemson University.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m learning to code, build circuits, and explore how hardware and software come together.
+
+---
+
+About Me
+
+- Studying ECE at Clemson University
+  
+- Working on Arduino and coding projects in my free time
+
+- Learning C programming and embedded systems basics
+
+---
+
+Interests
+- Microcontrollers (Arduino, embedded systems)
+
+- Low-level programming (C, logic, hardware control)
+  
+- Circuits and electronics
+  
+- Building practical tech projects from scratch
+
